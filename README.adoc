@@ -1,5 +1,5 @@
 = csoftz-region-province-svc
 
-20200926-V1.0.0
+20201129-V2020.1.0
 
 World Region Province Service (Microservice)
